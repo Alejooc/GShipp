@@ -1,6 +1,7 @@
 # GShipp
 
 # Install 
+-
 - Copiar el archivo Shippment.php y pegar en la carpeta libraries (ya existente en codeigniter)
 - importar la libreria  $this->load->library('shippment')
 - parametros: Envia = server->env,guia->xxxxxxxxxx  Servientrega = server->serv,guia->xxxxxxxxxx
